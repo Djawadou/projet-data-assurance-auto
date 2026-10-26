@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+
+# Python cache and build artifacts
+__pycache__/
+.pyc
+
+# Données confidentielles (non publiées)
+data/raw/
+data/processed/
+data/Glossaire.pdf
+data/models/ml_Random_Forest.pkl
+
+# Fichiers de travail
+.claude/
